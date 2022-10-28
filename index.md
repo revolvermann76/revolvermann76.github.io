@@ -1,3 +1,0 @@
-# Main Page
-
-Some content
