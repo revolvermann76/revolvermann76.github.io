@@ -8,4 +8,4 @@ layout: page
 
 ...Lorem ipsum
 
-[Delete Me](deleteme.md)
+[Delete Me](deleteme)
