@@ -1,4 +1,7 @@
-@import "{{ site.theme }}";
+---
+---
+
+@import "{{ site.theme }}"
 section #title .credits{
-  display:none;
+  display:none !important;
 }
