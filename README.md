@@ -4,7 +4,7 @@ permalink: "/about/"
 layout: page
 ---
 
-## Marc Langer
+## Whatever
 
 ...Lorem ipsum
 
