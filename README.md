@@ -8,3 +8,4 @@ layout: page
 
 ...Lorem ipsum
 
+[[deleteme]]
