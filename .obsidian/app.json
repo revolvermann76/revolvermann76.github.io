@@ -10,9 +10,9 @@
   "readableLineLength": false,
   "alwaysUpdateLinks": true,
   "newFileLocation": "folder",
-  "newFileFolderPath": "",
+  "newFileFolderPath": "_posts",
   "attachmentFolderPath": "resources",
-  "newLinkFormat": "shortest",
+  "newLinkFormat": "relative",
   "trashOption": "local",
   "userIgnoreFilters": [
     "excalidraw/",
@@ -30,5 +30,6 @@
   },
   "showUnsupportedFiles": true,
   "showFrontmatter": false,
-  "showInlineTitle": false
+  "showInlineTitle": false,
+  "useMarkdownLinks": true
 }
