@@ -10,7 +10,7 @@
   "readableLineLength": false,
   "alwaysUpdateLinks": true,
   "newFileLocation": "folder",
-  "newFileFolderPath": "notes",
+  "newFileFolderPath": "",
   "attachmentFolderPath": "resources",
   "newLinkFormat": "shortest",
   "trashOption": "local",
