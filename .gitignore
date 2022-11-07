@@ -5,3 +5,9 @@
 Gemfile.lock
 _site
 *.gem
+.obsidian/workspace
+.obsidian/workspace.json
+.obsidian/graph.json
+.trash
+Untitled*
+null*

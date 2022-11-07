@@ -1,0 +1,9 @@
+{
+  "accentColor": "",
+  "cssTheme": "Atom",
+  "enabledCssSnippets": [
+    "header_colors",
+    "notice_container",
+    "gui_colors"
+  ]
+}

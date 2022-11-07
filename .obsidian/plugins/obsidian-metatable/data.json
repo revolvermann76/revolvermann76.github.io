@@ -1,0 +1,16 @@
+{
+  "expansionMode": "root-collapsed",
+  "ignoreNulls": true,
+  "nullValue": "",
+  "skipKey": "metatable",
+  "filterKeys": [
+    "metatable",
+    "frontmatter"
+  ],
+  "filterMode": "ignore",
+  "autolinks": true,
+  "naked": false,
+  "theme": "dark",
+  "ignoredKeys": [],
+  "vault": null
+}

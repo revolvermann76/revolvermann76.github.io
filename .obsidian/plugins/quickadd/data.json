@@ -1,0 +1,355 @@
+{
+  "choices": [
+    {
+      "id": "065d1133-09fc-4410-94cd-eb9d04da28d5",
+      "name": "Create Note",
+      "type": "Template",
+      "command": false,
+      "templatePath": "tpl/pages/note.md",
+      "fileNameFormat": {
+        "enabled": true,
+        "format": "{{VALUE}}"
+      },
+      "folder": {
+        "enabled": true,
+        "folders": [
+          "notes"
+        ],
+        "chooseWhenCreatingNote": false,
+        "createInSameFolderAsActiveFile": false
+      },
+      "appendLink": false,
+      "incrementFileName": true,
+      "openFileInNewTab": {
+        "enabled": false,
+        "direction": "vertical",
+        "focus": true
+      },
+      "openFile": true,
+      "openFileInMode": "default"
+    },
+    {
+      "id": "39948c19-14cc-422c-8566-4e7d92a7d9a4",
+      "name": "Address",
+      "type": "Template",
+      "command": false,
+      "templatePath": "tpl/pages/address.md",
+      "fileNameFormat": {
+        "enabled": true,
+        "format": "{{NAME}}"
+      },
+      "folder": {
+        "enabled": true,
+        "folders": [
+          "notes"
+        ],
+        "chooseWhenCreatingNote": false,
+        "createInSameFolderAsActiveFile": false
+      },
+      "appendLink": false,
+      "incrementFileName": false,
+      "openFileInNewTab": {
+        "enabled": false,
+        "direction": "vertical",
+        "focus": true
+      },
+      "openFile": true,
+      "openFileInMode": "default"
+    },
+    {
+      "id": "8cdf8263-93c1-4bfc-92b2-f7861b6f6896",
+      "name": "Album Music",
+      "type": "Template",
+      "command": false,
+      "templatePath": "tpl/pages/album music.md",
+      "fileNameFormat": {
+        "enabled": true,
+        "format": "{{NAME}} (album music)"
+      },
+      "folder": {
+        "enabled": true,
+        "folders": [
+          "notes"
+        ],
+        "chooseWhenCreatingNote": false,
+        "createInSameFolderAsActiveFile": false
+      },
+      "appendLink": false,
+      "incrementFileName": false,
+      "openFileInNewTab": {
+        "enabled": false,
+        "direction": "vertical",
+        "focus": true
+      },
+      "openFile": true,
+      "openFileInMode": "default"
+    },
+    {
+      "id": "c11d0703-95b1-4b65-824b-262ecee8916e",
+      "name": "Book",
+      "type": "Template",
+      "command": false,
+      "templatePath": "tpl/pages/book.md",
+      "fileNameFormat": {
+        "enabled": true,
+        "format": "{{NAME}} (book)"
+      },
+      "folder": {
+        "enabled": true,
+        "folders": [],
+        "chooseWhenCreatingNote": false,
+        "createInSameFolderAsActiveFile": false
+      },
+      "appendLink": false,
+      "incrementFileName": false,
+      "openFileInNewTab": {
+        "enabled": false,
+        "direction": "vertical",
+        "focus": true
+      },
+      "openFile": true,
+      "openFileInMode": "default"
+    },
+    {
+      "id": "7a3f1502-b05e-4489-a766-982cbb2262aa",
+      "name": "Fellow",
+      "type": "Template",
+      "command": false,
+      "templatePath": "tpl/pages/fellow.md",
+      "fileNameFormat": {
+        "enabled": false,
+        "format": ""
+      },
+      "folder": {
+        "enabled": true,
+        "folders": [
+          "notes/person/fellow"
+        ],
+        "chooseWhenCreatingNote": false,
+        "createInSameFolderAsActiveFile": false
+      },
+      "appendLink": false,
+      "incrementFileName": false,
+      "openFileInNewTab": {
+        "enabled": false,
+        "direction": "vertical",
+        "focus": true
+      },
+      "openFile": true,
+      "openFileInMode": "default"
+    },
+    {
+      "id": "eb124300-6302-4294-879b-1df2e165fc0c",
+      "name": "Meeting",
+      "type": "Template",
+      "command": false,
+      "templatePath": "tpl/pages/meeting.md",
+      "fileNameFormat": {
+        "enabled": true,
+        "format": "{{DATE:YYYYMMDDHHmm}} {{NAME}}"
+      },
+      "folder": {
+        "enabled": true,
+        "folders": [
+          "hsh"
+        ],
+        "chooseWhenCreatingNote": false,
+        "createInSameFolderAsActiveFile": false
+      },
+      "appendLink": false,
+      "incrementFileName": false,
+      "openFileInNewTab": {
+        "enabled": false,
+        "direction": "vertical",
+        "focus": true
+      },
+      "openFile": true,
+      "openFileInMode": "default"
+    },
+    {
+      "id": "75bce900-84e6-464c-930b-a5d6b8d26385",
+      "name": "Movie",
+      "type": "Template",
+      "command": false,
+      "templatePath": "tpl/pages/movie.md",
+      "fileNameFormat": {
+        "enabled": true,
+        "format": "{{NAME}} (movie)"
+      },
+      "folder": {
+        "enabled": true,
+        "folders": [
+          "notes/movie"
+        ],
+        "chooseWhenCreatingNote": false,
+        "createInSameFolderAsActiveFile": false
+      },
+      "appendLink": false,
+      "incrementFileName": false,
+      "openFileInNewTab": {
+        "enabled": false,
+        "direction": "vertical",
+        "focus": true
+      },
+      "openFile": true,
+      "openFileInMode": "default"
+    },
+    {
+      "id": "98c50677-2a6e-4771-83de-d8241ac8b7e1",
+      "name": "Person",
+      "type": "Template",
+      "command": false,
+      "templatePath": "tpl/pages/person.md",
+      "fileNameFormat": {
+        "enabled": false,
+        "format": ""
+      },
+      "folder": {
+        "enabled": true,
+        "folders": [
+          "notes/person"
+        ],
+        "chooseWhenCreatingNote": false,
+        "createInSameFolderAsActiveFile": false
+      },
+      "appendLink": false,
+      "incrementFileName": false,
+      "openFileInNewTab": {
+        "enabled": false,
+        "direction": "vertical",
+        "focus": true
+      },
+      "openFile": true,
+      "openFileInMode": "default"
+    },
+    {
+      "id": "22df7767-c10d-44a2-9338-6634cc0c16c1",
+      "name": "Poem",
+      "type": "Template",
+      "command": false,
+      "templatePath": "tpl/pages/poem.md",
+      "fileNameFormat": {
+        "enabled": true,
+        "format": "{{NAME}} (poem)"
+      },
+      "folder": {
+        "enabled": true,
+        "folders": [
+          "notes/poetry"
+        ],
+        "chooseWhenCreatingNote": false,
+        "createInSameFolderAsActiveFile": false
+      },
+      "appendLink": false,
+      "incrementFileName": false,
+      "openFileInNewTab": {
+        "enabled": false,
+        "direction": "vertical",
+        "focus": true
+      },
+      "openFile": true,
+      "openFileInMode": "default"
+    },
+    {
+      "id": "13626c5a-843d-4e55-bc54-f14ffe4726cb",
+      "name": "Recipe",
+      "type": "Template",
+      "command": false,
+      "templatePath": "tpl/pages/recipe.md",
+      "fileNameFormat": {
+        "enabled": true,
+        "format": "{{NAME}} (recipe)"
+      },
+      "folder": {
+        "enabled": true,
+        "folders": [
+          "notes"
+        ],
+        "chooseWhenCreatingNote": false,
+        "createInSameFolderAsActiveFile": false
+      },
+      "appendLink": false,
+      "incrementFileName": false,
+      "openFileInNewTab": {
+        "enabled": false,
+        "direction": "vertical",
+        "focus": true
+      },
+      "openFile": true,
+      "openFileInMode": "default"
+    },
+    {
+      "id": "abfa0d31-1528-41fb-bb6c-3ed42c794c8b",
+      "name": "Song",
+      "type": "Template",
+      "command": false,
+      "templatePath": "tpl/pages/song.md",
+      "fileNameFormat": {
+        "enabled": true,
+        "format": "{{NAME}} (song)"
+      },
+      "folder": {
+        "enabled": true,
+        "folders": [
+          "notes/music"
+        ],
+        "chooseWhenCreatingNote": false,
+        "createInSameFolderAsActiveFile": false
+      },
+      "appendLink": false,
+      "incrementFileName": false,
+      "openFileInNewTab": {
+        "enabled": false,
+        "direction": "vertical",
+        "focus": true
+      },
+      "openFile": true,
+      "openFileInMode": "default"
+    },
+    {
+      "id": "6b58ed8e-2768-422c-9f94-951cdc6fc567",
+      "name": "TV Series",
+      "type": "Template",
+      "command": false,
+      "templatePath": "tpl/pages/tv_series.md",
+      "fileNameFormat": {
+        "enabled": true,
+        "format": "{{NAME}} (tv series)"
+      },
+      "folder": {
+        "enabled": true,
+        "folders": [
+          "notes/movie"
+        ],
+        "chooseWhenCreatingNote": false,
+        "createInSameFolderAsActiveFile": false
+      },
+      "appendLink": false,
+      "incrementFileName": false,
+      "openFileInNewTab": {
+        "enabled": false,
+        "direction": "vertical",
+        "focus": true
+      },
+      "openFile": true,
+      "openFileInMode": "default"
+    }
+  ],
+  "macros": [
+    {
+      "name": "modified",
+      "id": "b0ec2bf4-8395-43fb-8c96-286fb07a1d69",
+      "commands": [
+        {
+          "name": "modified",
+          "type": "UserScript",
+          "id": "a0f49349-32fa-46cb-9ec0-a1593dc8a751",
+          "path": "template scripts/modified.js",
+          "settings": {}
+        }
+      ],
+      "runOnStartup": false
+    }
+  ],
+  "inputPrompt": "single-line"
+}

@@ -1,0 +1,15 @@
+{
+  "todoPageName": "todo\nurgent\nimportant\nresearch\nreview",
+  "showChecked": false,
+  "showAllTodos": false,
+  "autoRefresh": true,
+  "subGroups": false,
+  "groupBy": "tag",
+  "sortDirectionItems": "new->old",
+  "sortDirectionGroups": "new->old",
+  "sortDirectionSubGroups": "new->old",
+  "includeFiles": "",
+  "lookAndFeel": "compact",
+  "_collapsedSections": [],
+  "_hiddenTags": []
+}
