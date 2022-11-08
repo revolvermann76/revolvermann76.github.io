@@ -1,11 +1,6 @@
 ---
-title: "Über mich"
+title: "About me"
 permalink: "/about/"
 layout: page
 ---
-
-## Whatever4
-
-...Lorem ipsum
-
-[Delete Me](/deleteme)
+![Marc Langer](resources/me-High-Key.jpg)
