@@ -1,6 +1,6 @@
 {
   "command_timeout": 5,
-  "templates_folder": "",
+  "templates_folder": "_tpl",
   "templates_pairs": [
     [
       "",
@@ -11,20 +11,20 @@
   "auto_jump_to_cursor": true,
   "enable_system_commands": false,
   "shell_path": "",
-  "user_scripts_folder": "tpl/scripts",
+  "user_scripts_folder": "_tpl/scripts",
   "enable_folder_templates": true,
   "folder_templates": [
     {
       "folder": "diary",
-      "template": "tpl/pages/diary.md"
+      "template": "_tpl/pages/diary.md"
     },
     {
       "folder": "quicknotes",
-      "template": "tpl/pages/quicknote.md"
+      "template": "_tpl/pages/quicknote.md"
     },
     {
       "folder": "notes",
-      "template": "tpl/pages/note.md"
+      "template": "_tpl/pages/note.md"
     }
   ],
   "syntax_highlighting": true,
