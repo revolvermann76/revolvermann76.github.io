@@ -30,6 +30,8 @@ Hallo, my name is __Marc Gerrit Langer__. I live in Brandenburg in Germany, near
 	padding:10px 5px;
 	word-break:normal;
 	border-left-width:0;
+	vertical-align:top;
+	background-color: transparent;
 }
 </style>
 
