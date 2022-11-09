@@ -11,16 +11,23 @@ Hallo, my name is __Marc Gerrit Langer__. I live in Brandenburg in Germany, near
 .tg  {
 	border-collapse:collapse;
 	border-spacing:0;
+	box-shadow:none;
+	width:90%
+}
+.tg td:first-child{
+	width:30%;
 }
 .tg td{
+	width:70%;
 	border-color:black;
-	border-style:solid;
-	border-width:1px;
+	border-style:transparent;
+	border-width:1rem;
 	font-family:Arial, sans-serif;
 	font-size:14px;
 	overflow:hidden;
 	padding:10px 5px;
 	word-break:normal;
+	border-left-width:0;
 }
 </style>
 
