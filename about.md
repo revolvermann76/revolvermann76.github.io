@@ -39,7 +39,7 @@ I live in Brandenburg in Germany, near Berlin. I am a happy father, tech nerd, f
 	background: none;
 }
 </style>
-
+## some facts
 <table class="tg">
 	<tr>
 		<td>born</td><td>1976 / 10 / 15 in Berlin</td>
