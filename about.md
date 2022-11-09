@@ -13,7 +13,7 @@ Hallo, my name is __Marc Gerrit Langer__. I live in Brandenburg in Germany, near
 	border-spacing:0;
 	box-shadow:none;
 	width:90%;
-	overflow:none;
+	overflow-y:none;
 	display:table;
 }
 .tg td:first-child{
@@ -21,9 +21,9 @@ Hallo, my name is __Marc Gerrit Langer__. I live in Brandenburg in Germany, near
 }
 .tg td{
 	width:70%;
-	border-color:black;
-	border-style:transparent;
+	border-color:transparent;
 	border-width:1rem;
+	border-style:solid;
 	font-family:Arial, sans-serif;
 	font-size:14px;
 	overflow:hidden;
@@ -35,7 +35,7 @@ Hallo, my name is __Marc Gerrit Langer__. I live in Brandenburg in Germany, near
 
 <table class="tg">
 	<tr>
-		<td>Born</td><td>1976/10/15 in Berlin</td>
+		<td>Born</td><td>1976 / 10 / 15 in Berlin</td>
 	</tr>
 </table>
 
