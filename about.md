@@ -40,8 +40,11 @@ I live in Brandenburg in Germany, near Berlin.
 
 I am a happy father, tech and science nerd, feminist, artist and treasure hunter.
 
+I am concerned about human rights, animal rights, climate change.
 
-## some facts
+I try to make that world each day a better place, than the day before.
+
+## some facts about me
 <table class="tg">
 	<tr>
 		<td>born</td><td>1976 / 10 / 15 in Berlin</td>
