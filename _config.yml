@@ -1,6 +1,6 @@
 title: "Marc Gerrit Langer"
 author: "Marc Gerrit Langer"
-description: "eine persönliche Website"
+description: "a personal web log"
 permalink: /:title
 lang: "de"
 excerpt_separator: "\n\n\n"
