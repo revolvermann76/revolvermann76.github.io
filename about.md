@@ -55,5 +55,23 @@ I try to make that world each day a better place, than the day before.
 	<tr>
 		<td>languages</td><td>german<br/>english<br/>javascript<br/>typescript<br/>java<br/>python</td>
 	</tr>
+	<tr>
+		<td>email</td><td><a href="mailto:postkutsche@gmail.com">postkutsche@gmail.com</a></td>
+	</tr>
+	<tr>
+		<td>instagram</td><td><a href="https://www.instagram.com/curioussapient/">@curioussapient</a></td>
+	</tr>
+	<tr>
+		<td>twitter</td><td><a href="https://www.instagram.com/curioussapient/">@curioussapient</a></td>
+	</tr>
+	<tr>
+		<td>mastodon</td><td><a href="https://det.social/web/@marc_langer">@marc_langer@det.social</a></td>
+	</tr>
+	<tr>
+		<td>github</td><td><a href="https://github.com/revolvermann76">revolvermann76</a></td>
+	</tr>	
+	<tr>
+		<td>thingiverse</td><td><a href="https://www.thingiverse.com/revolvermann76/">revolvermann76</a></td>
+	</tr>	
 </table>
 
