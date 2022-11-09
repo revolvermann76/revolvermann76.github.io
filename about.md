@@ -36,7 +36,9 @@ layout: page
 
 Hallo, my name is __Marc Gerrit Langer__. 
 
-I live in Brandenburg in Germany, near Berlin. I am a happy father, tech nerd, feminist, artist and treasure hunter.
+I live in Brandenburg in Germany, near Berlin. 
+
+I am a happy father, tech and science nerd, feminist, artist and treasure hunter.
 
 
 ## some facts
