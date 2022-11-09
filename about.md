@@ -35,10 +35,10 @@ Hallo, my name is __Marc Gerrit Langer__. I live in Brandenburg in Germany, near
 
 <table class="tg">
 	<tr>
-		<td>Born</td><td>1976 / 10 / 15 in Berlin</td>
+		<td>born</td><td>1976 / 10 / 15 in Berlin</td>
 	</tr>
 	<tr>
-		<td>Profession</td><td>software developer<br/>electronic engineer</td>
+		<td>profession</td><td>software developer<br/>electronic engineer</td>
 	</tr>
 </table>
 
