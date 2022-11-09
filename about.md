@@ -62,7 +62,7 @@ I try to make that world each day a better place, than the day before.
 		<td>instagram</td><td><a href="https://www.instagram.com/curioussapient/">@curioussapient</a></td>
 	</tr>
 	<tr>
-		<td>twitter</td><td><a href="https://www.instagram.com/curioussapient/">@curioussapient</a></td>
+		<td>twitter</td><td><a href="https://twitter.com/marc_langer">@marc_langer</a></td>
 	</tr>
 	<tr>
 		<td>mastodon</td><td><a href="https://det.social/web/@marc_langer">@marc_langer@det.social</a></td>
