@@ -47,5 +47,8 @@ I live in Brandenburg in Germany, near Berlin. I am a happy father, tech nerd, f
 	<tr>
 		<td>profession</td><td>software developer<br/>electronic engineer</td>
 	</tr>
+	<tr>
+		<td>languages</td><td>german<br/>english<br/>javascript<br/>typescript<br/>java<br/>python</td>
+	</tr>
 </table>
 
