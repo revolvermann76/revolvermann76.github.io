@@ -7,7 +7,24 @@ layout: page
 
 Hallo, my name is __Marc Gerrit Langer__. I live in Brandenburg in Germany, near Berlin.
 
-<table>
+<style type="text/css">
+.tg  {
+	border-collapse:collapse;
+	border-spacing:0;
+}
+.tg td{
+	border-color:black;
+	border-style:solid;
+	border-width:1px;
+	font-family:Arial, sans-serif;
+	font-size:14px;
+	overflow:hidden;
+	padding:10px 5px;
+	word-break:normal;
+}
+</style>
+
+<table class="tg">
 	<tr>
 		<td>Born</td><td>1976-10-15 in Berlin</td>
 	</tr>
