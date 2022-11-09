@@ -19,6 +19,9 @@ Hallo, my name is __Marc Gerrit Langer__. I live in Brandenburg in Germany, near
 .tg td:first-child{
 	width:30%;
 }
+.tg tr:nth-child(odd) td{
+	background:none;
+}
 .tg td{
 	width:70%;
 	border-color:transparent;
@@ -31,7 +34,7 @@ Hallo, my name is __Marc Gerrit Langer__. I live in Brandenburg in Germany, near
 	word-break:normal;
 	border-left-width:0;
 	vertical-align:top;
-	background-color: transparent;
+	background: none;
 }
 </style>
 
