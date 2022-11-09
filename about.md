@@ -3,12 +3,6 @@ title: "About me"
 permalink: "/about/"
 layout: page
 ---
-![Marc Langer](resources/me-High-Key.jpg)
-
-Hallo, my name is __Marc Gerrit Langer__. 
-
-I live in Brandenburg in Germany, near Berlin. I am a happy father, tech nerd, feminist, artist and treasure hunter.
-
 <style type="text/css">
 .tg  {
 	border-collapse:collapse;
@@ -38,7 +32,13 @@ I live in Brandenburg in Germany, near Berlin. I am a happy father, tech nerd, f
 	vertical-align:top;
 	background: none;
 }
-</style>
+</style>![Marc Langer](resources/me-High-Key.jpg)
+
+Hallo, my name is __Marc Gerrit Langer__. 
+
+I live in Brandenburg in Germany, near Berlin. I am a happy father, tech nerd, feminist, artist and treasure hunter.
+
+
 ## some facts
 <table class="tg">
 	<tr>
