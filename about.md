@@ -74,7 +74,7 @@ I try to make that world each day a better place, than the day before.
 		<td>thingiverse</td><td><a href="https://www.thingiverse.com/revolvermann76/">revolvermann76</a></td>
 	</tr>
 	<tr>
-		<td>albion online</td><td>ChantalNo5 of Naturgewalt guild<br/>Revolvermann76</td>
+		<td>albion online</td><td><a href="https://albiononline.com/en/killboard/player/UfyuRdwpTMa_utjHsHLpAg">ChantalNo5</a> of <a href="https://albiononline.com/en/killboard/guild/EASe28OqQ8iooKLqDEPGJQ">Naturgewalt</a> guild<br/><a href="https://albiononline.com/en/killboard/player/AeCR7khcSWyBBtOxmaxBpQ">Revolvermann76</a></td>
 	</tr>		
 </table>
 
