@@ -12,7 +12,7 @@ Hallo, my name is __Marc Gerrit Langer__. I live in Brandenburg in Germany, near
 	border-collapse:collapse;
 	border-spacing:0;
 	box-shadow:none;
-	width:90%
+	width:90%;
 	overflow:none;
 	display:table;
 }
@@ -35,7 +35,7 @@ Hallo, my name is __Marc Gerrit Langer__. I live in Brandenburg in Germany, near
 
 <table class="tg">
 	<tr>
-		<td>Born</td><td>1976-10-15 in Berlin</td>
+		<td>Born</td><td>1976/10/15 in Berlin</td>
 	</tr>
 </table>
 
