@@ -5,7 +5,9 @@ layout: page
 ---
 ![Marc Langer](resources/me-High-Key.jpg)
 
-Hallo, my name is __Marc Gerrit Langer__. I live in Brandenburg in Germany, near Berlin.
+Hallo, my name is __Marc Gerrit Langer__. 
+
+I live in Brandenburg in Germany, near Berlin. I am a happy father, tech nerd, feminist, artist and treasure hunter.
 
 <style type="text/css">
 .tg  {
