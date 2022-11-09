@@ -6,5 +6,10 @@ layout: page
 ![Marc Langer](resources/me-High-Key.jpg)
 
 Hallo, my name is __Marc Gerrit Langer__. I live in Brandenburg in Germany, near Berlin.
-I was born in Berlin in 1976. 
+
+<table>
+	<tr>
+		<td>Born</td><td>1976-10-15 in Berlin</td>
+	</tr>
+</table>
 
