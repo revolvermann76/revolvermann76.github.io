@@ -13,6 +13,8 @@ Hallo, my name is __Marc Gerrit Langer__. I live in Brandenburg in Germany, near
 	border-spacing:0;
 	box-shadow:none;
 	width:90%
+	overflow:none;
+	display:table;
 }
 .tg td:first-child{
 	width:30%;
