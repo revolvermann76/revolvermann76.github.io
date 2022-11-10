@@ -32,7 +32,7 @@ layout: page
 	vertical-align:top;
 	background: none;
 }
-</style>![Marc Langer](resources/me-High-Key.jpg)
+</style>![Marc Langer](/resources/marc-langer.jpg)
 
 Hallo, my name is __Marc Gerrit Langer__. 
 
@@ -40,7 +40,7 @@ I live in Brandenburg in Germany, near Berlin.
 
 I am a happy father, tech and science nerd, feminist, artist and treasure hunter.
 
-I am concerned about human rights, animal rights, climate change.
+I am concerned about human rights, animal rights, climate change and a lot more.
 
 I try to make that world each day a better place, than the day before.
 
