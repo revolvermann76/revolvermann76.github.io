@@ -32,7 +32,8 @@ layout: page
 	vertical-align:top;
 	background: none;
 }
-</style>![Marc Langer](/resources/marc-langer.jpg)
+</style>
+![Marc Langer](/resources/marc-langer.jpg)
 
 Hallo, my name is __Marc Gerrit Langer__. 
 
