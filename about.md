@@ -36,7 +36,7 @@ layout: page
 ## Marc Gerrit Langer
 ![Marc Langer](/resources/marc-langer.jpg)
 
-Hallo, my name is __Marc Gerrit Langer__. 
+Hallo, my name is Marc. 
 
 I live in Brandenburg in Germany, near Berlin. 
 
