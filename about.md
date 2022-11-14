@@ -33,9 +33,10 @@ layout: page
 	background: none;
 }
 </style>
+## Marc Gerrit Langer
 ![Marc Langer](/resources/marc-langer.jpg)
 
-Hallo, my name is __Marc Gerrit Langer__. 
+Hallo, my name is Marc. 
 
 I live in Brandenburg in Germany, near Berlin. 
 
@@ -58,6 +59,9 @@ I try to make that world each day a better place, than the day before.
 	</tr>
 	<tr>
 		<td>email</td><td><a href="mailto:postkutsche@gmail.com">postkutsche@gmail.com</a></td>
+	</tr>
+  <tr>
+		<td>pixelfed.social</td><td><a href="https://pixelfed.social/i/web/profile/497696841982789882">@marc_langer</a></td>
 	</tr>
 	<tr>
 		<td>instagram</td><td><a href="https://www.instagram.com/curioussapient/">@curioussapient</a></td>
