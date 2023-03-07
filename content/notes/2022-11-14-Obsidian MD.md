@@ -4,7 +4,7 @@ tags:
 title: Obsidian MD
 layout: post
 ---
-![Obsidian Logo](/resources/obsidian.png)
+![Obsidian Logo](notes/images/obsidian.png)
 
 Today I would like to introduce you to a software that I have been very enthusiastic about for some time.
 [Obsidian.md](https://obsidian.md/) is for easy archiving and organization of notes. These notes are created as simple markdown files. They are easy to search and can be linked together in folders, by keywords or by bi-directional links. The software is simple and has a tidy interface that you can get to grips with very quickly.
