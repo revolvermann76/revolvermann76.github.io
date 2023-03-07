@@ -1,27 +1,85 @@
 ---
-title: 🪴 Quartz 3.3
-enableToc: false
+title: "About me"
+permalink: "/about/"
+layout: page
 ---
+<style type="text/css">
+.tg  {
+	border-collapse:collapse;
+	border-spacing:0;
+	box-shadow:none;
+	width:90%;
+	overflow-y:none;
+	display:table;
+}
+.tg td:first-child{
+	width:30%;
+}
+.tg tr:nth-child(odd) td{
+	background:none;
+}
+.tg td{
+	width:70%;
+	border-color:transparent;
+	border-width:0.5rem;
+	border-style:solid;
+	font-family:Arial, sans-serif;
+	font-size:14px;
+	overflow:hidden;
+	padding:10px 5px;
+	word-break:normal;
+	border-left-width:0;
+	vertical-align:top;
+	background: none;
+}
+</style>
+## Marc Gerrit Langer
+![Marc Langer](/resources/marc-langer.jpg)
 
-Host your second braain and [digital garden](https://jzhao.xyz/posts/networked-thought) for free. Quartz features
+Hallo, my name is Marc. 
 
-1. Extremely fast natural-language [[notes/search]]
-2. Customizable and hackable design based on [Hugo](https://gohugo.io/)
-3. Automatically generated backlinks, link previews, and local graph
-4. Built-in [[notes/CJK + Latex Support (测试) | CJK + Latex Support]] and [[notes/callouts | Admonition-style callouts]]
-5. Support for both Markdown Links and Wikilinks
+I live in Brandenburg in Germany, near Berlin. 
 
-Check out some of the [amazing gardens that community members](notes/showcase.md) have published with Quartz or read about [why I made Quartz](notes/philosophy.md) to begin with.
+I am a happy father, tech and science nerd, feminist, artist and treasure hunter.
 
-## Get Started
-> 📚 Step 1: [Setup your own digital garden using Quartz](notes/setup.md)
+I am concerned about human rights, animal rights, climate change and a lot more.
 
-Returning user? Figure out how to [[notes/updating|update]] your existing Quartz garden.
+I try to make that world each day a better place, than the day before.
 
-If you prefer browsing the contents of this site through a list instead of a graph, you see a list of all [setup-related notes](/tags/setup).
-
-### Troubleshooting
-- 🚧 [Troubleshooting and FAQ](notes/troubleshooting.md)
-- 🐛 [Submit an Issue](https://github.com/jackyzha0/quartz/issues)
-- 👀 [Discord Community](https://discord.gg/cRFFHYye7t)
+## some facts about me
+<table class="tg">
+	<tr>
+		<td>born</td><td>1976 / 10 / 15 in Berlin</td>
+	</tr>
+	<tr>
+		<td>profession</td><td>software developer<br/>electronic engineer</td>
+	</tr>
+	<tr>
+		<td>languages</td><td>german<br/>english<br/>javascript<br/>typescript<br/>java<br/>python</td>
+	</tr>
+	<tr>
+		<td>email</td><td><a href="mailto:postkutsche@gmail.com">postkutsche@gmail.com</a></td>
+	</tr>
+  <tr>
+		<td>pixelfed.social</td><td><a href="https://pixelfed.social/i/web/profile/497696841982789882">@marc_langer</a></td>
+	</tr>
+	<tr>
+		<td>instagram</td><td><a href="https://www.instagram.com/curioussapient/">@curioussapient</a></td>
+	</tr>
+	<tr>
+		<td>twitter</td><td><a href="https://twitter.com/marc_langer">@marc_langer</a></td>
+	</tr>
+	<tr>
+		<td>mastodon</td><td><a href="https://det.social/web/@marc_langer">@marc_langer@det.social</a></td>
+	</tr>
+	<tr>
+		<td>github</td><td><a href="https://github.com/revolvermann76">revolvermann76</a></td>
+	</tr>	
+	<tr>
+		<td>thingiverse</td><td><a href="https://www.thingiverse.com/revolvermann76/">revolvermann76</a></td>
+	</tr>
+	<tr>
+		<td>albion online</td><td><a href="https://albiononline.com/en/killboard/player/UfyuRdwpTMa_utjHsHLpAg">ChantalNo5</a> of <a href="https://albiononline.com/en/killboard/guild/EASe28OqQ8iooKLqDEPGJQ">Naturgewalt</a> guild<br/><a href="https://albiononline.com/en/killboard/player/AeCR7khcSWyBBtOxmaxBpQ">Revolvermann76</a></td>
+	</tr>		
+</table>
 
