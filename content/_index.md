@@ -34,7 +34,7 @@ layout: page
 }
 </style>
 ## Marc Gerrit Langer
-![Marc Langer](/resources/marc-langer.jpg)
+![Marc Langer](./resources/marc-langer.jpg)
 
 Hallo, my name is Marc. 
 
