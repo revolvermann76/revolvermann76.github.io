@@ -20,6 +20,12 @@ I care deeply about human rights, animal rights, climate change, and much more.
 Each day, I try to make the world a better place than it was the day before.
   
 
+<center>
+    <a href="https://revolvermann76.github.io/marc-gerrit-artist/">
+        <img src="../assets/pinsel.jpg" style="width: 90%;"/>  
+    </a>
+</center>
+
 ## some facts about me
 
 <table class="paleBlueRows">
