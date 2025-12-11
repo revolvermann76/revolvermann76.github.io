@@ -13,17 +13,12 @@ Hallo, my name is Marc.
 
 I live in Brandenburg in Germany, near Berlin.
 
-I am a happy father, tech and science nerd, feminist, <a href="https://revolvermann76.github.io/marc-gerrit-artist/">artist</a> and treasure hunter.
+I am a happy father, a tech and science nerd, a feminist, an <a href="https://revolvermann76.github.io/marc-gerrit-artist/">artist</a> and a treasure hunter.
 
-I am concerned about human rights, animal rights, climate change and a lot more.
+I care deeply about human rights, animal rights, climate change, and much more.
 
-I try to make that world each day a better place, than the day before.
-
-<center>
-    <a href="https://revolvermann76.github.io/marc-gerrit-artist/">
-        <img src="../assets/pinsel.jpg" style="width: 90%;"/>  
-    </a>
-</center>
+Each day, I try to make the world a better place than it was the day before.
+  
 
 ## some facts about me
 
