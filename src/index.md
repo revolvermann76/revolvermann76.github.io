@@ -18,7 +18,12 @@ I am a happy father, tech and science nerd, feminist, <a href="https://revolverm
 I am concerned about human rights, animal rights, climate change and a lot more.
 
 I try to make that world each day a better place, than the day before.
-  
+
+<center>
+    <a href="https://revolvermann76.github.io/marc-gerrit-artist/">
+        <img src="../assets/pinsel.jpg" style="width: 90%;"/>  
+    </a>
+</center>
 
 ## some facts about me
 
