@@ -1,6 +1,7 @@
 ---
-title: Impressum
+title: Datenschutz
 layout: layout.njk
+bodyClass: legal
 ---
 # Datenschutzerklärung
 

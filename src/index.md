@@ -1,47 +1,31 @@
 ---
 title: Marc Gerrit Langer
 layout: layout.njk
+bodyClass: cardview
 ---
 
-## Marc Gerrit Langer
+<div class="cardview-card">
+  <img class="cardview-avatar" src="images/ich.jpg" alt="Marc Gerrit Langer" />
+  <h1 class="cardview-name">Marc Gerrit Langer</h1>
+  <p class="cardview-tagline">Softwareentwickler &middot; Elektroingenieur &middot; K&uuml;nstler</p>
+  <p class="cardview-bio">Vater, Künstler, Tech-Nerd, Feminist und Schatzsucher aus Brandenburg bei Berlin &ndash; ich versuche, die Welt jeden Tag ein St&uuml;ck besser zu machen.</p>
 
-![Marc Langer](images/ich.jpg)
+  <div class="cardview-links">
+    <a class="cardview-btn" href="https://revolvermann76.github.io/marc-gerrit-artist/">🎨 Kunstgalerie ansehen</a>
+    <a class="cardview-btn" href="mailto:postkutsche@gmail.com">✉️ postkutsche@gmail.com</a>
+    <a class="cardview-btn" href="https://www.thingiverse.com/revolvermann76/">🧩 3D-Drucke auf Thingiverse</a>
+  </div>
 
-  
-
-Hallo, my name is Marc.
-
-I live in Brandenburg in Germany, near Berlin.
-
-I am a happy father, a tech and science nerd, a feminist, an <a href="https://revolvermann76.github.io/marc-gerrit-artist/">artist</a> and a treasure hunter.
-
-I care deeply about human rights, animal rights, climate change, and much more.
-
-Each day, I try to make the world a better place than it was the day before.
-  
-
-## some facts about me
-
-<table class="paleBlueRows">
-    <tr>
-        <td>born</td><td>1976 / 10 / 15 in Berlin</td>
-    </tr>
-    <tr>
-        <td>profession</td><td>software developer<br/>electronic engineer</td>
-    </tr>
-    <tr>
-        <td>languages</td><td>german<br/>english<br/>javascript<br/>typescript<br/>java<br/>python</td>
-    </tr>
-    <tr>
-        <td>email</td><td><a href="mailto:postkutsche@gmail.com">postkutsche@gmail.com</a></td>
-    </tr>
-    <tr>
-        <td>instagram</td><td><a href="https://www.instagram.com/marc_gerrit/">@marc_gerrit</a></td>
-    </tr>
-    <tr>
-        <td>github</td><td><a href="https://github.com/revolvermann76">revolvermann76</a></td>
-    </tr>  
-    <tr>
-        <td>thingiverse</td><td><a href="https://www.thingiverse.com/revolvermann76/">revolvermann76</a></td>
-    </tr>   
-</table>
+  <div class="cardview-socials">
+    <a class="cardview-social" href="https://github.com/revolvermann76" aria-label="GitHub" target="_blank" rel="noopener">
+      <svg viewBox="0 0 24 24" fill="currentColor" aria-hidden="true"><path d="M12 .5C5.73.5.5 5.73.5 12c0 5.09 3.29 9.4 7.86 10.93.58.1.79-.25.79-.56 0-.27-.01-1.17-.02-2.12-3.2.7-3.88-1.36-3.88-1.36-.53-1.34-1.29-1.7-1.29-1.7-1.05-.72.08-.7.08-.7 1.17.08 1.78 1.2 1.78 1.2 1.03 1.77 2.71 1.26 3.37.96.1-.75.4-1.26.73-1.55-2.55-.29-5.24-1.28-5.24-5.7 0-1.26.45-2.29 1.19-3.1-.12-.29-.52-1.46.11-3.05 0 0 .97-.31 3.18 1.18.92-.26 1.91-.39 2.89-.39.98 0 1.97.13 2.89.39 2.21-1.49 3.18-1.18 3.18-1.18.63 1.59.23 2.76.11 3.05.74.81 1.19 1.84 1.19 3.1 0 4.43-2.69 5.41-5.25 5.69.41.36.78 1.08.78 2.17 0 1.57-.01 2.83-.01 3.22 0 .31.21.67.8.56A10.51 10.51 0 0 0 23.5 12C23.5 5.73 18.27.5 12 .5Z"/></svg>
+    </a>
+    <a class="cardview-social" href="https://www.instagram.com/marc_gerrit/" aria-label="Instagram" target="_blank" rel="noopener">
+      <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" aria-hidden="true">
+        <rect x="3" y="3" width="18" height="18" rx="5"/>
+        <circle cx="12" cy="12" r="4.2"/>
+        <circle cx="17.2" cy="6.8" r="1.1" fill="currentColor" stroke="none"/>
+      </svg>
+    </a>
+  </div>
+</div>
