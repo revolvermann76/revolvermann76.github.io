@@ -1,6 +1,7 @@
 ---
 title: Impressum
 layout: layout.njk
+bodyClass: legal
 ---
 # Impressum
 

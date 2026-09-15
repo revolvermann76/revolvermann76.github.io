@@ -1,0 +1,187 @@
+html {
+    background: #0d1f27;
+}
+
+body.cardview,
+body.legal {
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+    background: linear-gradient(180deg, #1b3d4d 0%, #0d1f27 100%);
+}
+
+body.cardview main {
+    flex: 1;
+    margin: 0;
+    display: flex;
+    justify-content: center;
+    padding: 3rem 1.25rem 2rem;
+}
+
+body.legal main {
+    flex: 1;
+    width: 100%;
+    max-width: 720px;
+    margin: 0 auto;
+    padding: 3rem 1.5rem 2rem;
+}
+
+body.legal main h1,
+body.legal main h2,
+body.legal main h3,
+body.legal main h4,
+body.legal main h5,
+body.legal main h6 {
+    color: #ffffff;
+}
+
+body.legal main p,
+body.legal main li {
+    color: #c9d8de;
+}
+
+body.legal main ul,
+body.legal main ol {
+    margin: 0 0 1rem 1.25rem;
+    list-style: disc;
+}
+
+body.legal main ol {
+    list-style: decimal;
+}
+
+body.legal main strong {
+    color: #ffffff;
+}
+
+body.legal main a,
+body.legal main a:link,
+body.legal main a:visited {
+    color: #e8a35c !important;
+    font-weight: 700 !important;
+}
+
+body.legal main a:hover {
+    background: none !important;
+    color: #f6c98a !important;
+    text-decoration: underline;
+}
+
+.cardview-card {
+    width: 100%;
+    max-width: 420px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+}
+
+.cardview-avatar {
+    width: 128px;
+    height: 128px;
+    border-radius: 50%;
+    object-fit: cover;
+    border: 4px solid #e8a35c;
+    box-shadow: 0 8px 24px rgba(0, 0, 0, 0.35);
+}
+
+.cardview-name {
+    margin-top: 1.25rem;
+    margin-bottom: 0.25rem;
+    font-family: Assistant, sans-serif;
+    font-size: 1.6rem;
+    color: #ffffff;
+}
+
+.cardview-tagline {
+    margin-bottom: 0.5rem;
+    color: #cddce2;
+    font-size: 0.95rem;
+    line-height: 1.4rem;
+}
+
+.cardview-bio {
+    margin-bottom: 1.75rem;
+    color: #9fb4bc;
+    font-size: 0.85rem;
+    line-height: 1.4rem;
+    max-width: 340px;
+}
+
+.cardview-links {
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    gap: 0.85rem;
+    margin-bottom: 1.75rem;
+}
+
+.cardview-btn {
+    display: block;
+    width: 100%;
+    padding: 0.9rem 1.25rem;
+    border-radius: 999px;
+    background: #f6f1e7;
+    color: #16323f !important;
+    font-weight: 700 !important;
+    font-size: 0.95rem;
+    text-align: center;
+    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.25);
+    transition: transform 0.15s ease, background 0.15s ease;
+}
+
+.cardview-btn:hover {
+    background: #ffffff !important;
+    transform: translateY(-2px);
+}
+
+.cardview-socials {
+    display: flex;
+    gap: 1rem;
+}
+
+.cardview-social {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 42px;
+    height: 42px;
+    border-radius: 50%;
+    background: #f6f1e7 !important;
+    color: #16323f;
+    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.25);
+    transition: transform 0.15s ease, background 0.15s ease;
+}
+
+.cardview-social:hover {
+    background: #ffffff !important;
+    transform: translateY(-2px);
+}
+
+.cardview-social svg {
+    width: 20px;
+    height: 20px;
+}
+
+body.cardview footer,
+body.legal footer {
+    text-align: center;
+    margin: 1.5rem 1rem 2rem;
+}
+
+body.cardview footer a,
+body.cardview footer a:link,
+body.cardview footer a:visited,
+body.legal footer a,
+body.legal footer a:link,
+body.legal footer a:visited {
+    color: #7f97a0 !important;
+    font-weight: 400 !important;
+    font-size: 0.8rem;
+}
+
+body.cardview footer a:hover,
+body.legal footer a:hover {
+    background: none !important;
+    color: #f6f1e7 !important;
+}
