@@ -18,6 +18,10 @@ bodyClass: cardview
       <img class="cardview-icon" src="assets/icons/chess-knight.svg" alt="" aria-hidden="true" />
       Schach auf Chess.com
     </a>
+    <a class="cardview-btn cardview-btn-icon" href="https://lichess.org/@/Postkutsche" target="_blank" rel="noopener">
+      <img class="cardview-icon" src="assets/icons/chess-knight.svg" alt="" aria-hidden="true" />
+      Schach auf Lichess
+    </a>
   </div>
 
   <div class="cardview-socials">
