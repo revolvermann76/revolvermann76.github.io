@@ -22,6 +22,7 @@ bodyClass: cardview
       <img class="cardview-icon" src="assets/icons/chess-knight.svg" alt="" aria-hidden="true" />
       Schach auf Lichess
     </a>
+    <a class="cardview-btn" href="https://paypal.me/MarcGerrit" target="_blank" rel="noopener">💸 Unterstützen via PayPal.me</a>
   </div>
 
   <div class="cardview-socials">
