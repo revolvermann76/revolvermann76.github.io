@@ -34,3 +34,8 @@ bodyClass: cardview
     </a>
   </div>
 </div>
+
+<script src="assets/js/ntfy.js"></script>
+<script>
+  ntfy("marc-langer", "Ping: Landingpage");
+</script>
