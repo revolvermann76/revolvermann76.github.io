@@ -39,3 +39,4 @@ bodyClass: cardview
 <script>
   ntfy("marc-langer", "Ping: Landingpage");
 </script>
+<script data-goatcounter="https://revolvermann76.goatcounter.com/count" async src="//gc.zgo.at/count.js"></script>
